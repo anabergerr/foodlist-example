@@ -19,7 +19,7 @@ O aplicativo Android neste repositório demonstra como configurar e usar o Recyc
 
 ## Densenho demonstrado a explicação usada no artigo 🎨
 
-Link [aqui](#)
+Link [aqui](https://dev.to/analaura/entendendo-recyclerview-de-uma-vez-por-todas-47jf)
 
 ![exemplo1](https://github.com/anabergerr/foodlist-example/assets/89489383/4a225c99-baef-45c2-b280-4ce0d3ddff09)
 
