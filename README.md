@@ -17,9 +17,9 @@ O aplicativo Android neste repositório demonstra como configurar e usar o Recyc
 - FoodViewHolder: Um ViewHolder personalizado que mantém referências aos elementos de UI para cada item na lista.
 
 
-## Densenho demonstrado a explicação usada no artigo 
+## Densenho demonstrado a explicação usada no artigo 🎨
 
-Link(aqui)[]
+Link [aqui](#)
 ![exemplo](https://github.com/anabergerr/foodlist-example/assets/89489383/9a3fffa7-ee39-4980-9d5f-4661c5204e97)
 
 
