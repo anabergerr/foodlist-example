@@ -20,7 +20,8 @@ O aplicativo Android neste repositório demonstra como configurar e usar o Recyc
 ## Densenho demonstrado a explicação usada no artigo 🎨
 
 Link [aqui](#)
-![exemplo](https://github.com/anabergerr/foodlist-example/assets/89489383/9a3fffa7-ee39-4980-9d5f-4661c5204e97)
+
+![exemplo1](https://github.com/anabergerr/foodlist-example/assets/89489383/4a225c99-baef-45c2-b280-4ce0d3ddff09)
 
 
 ## Etapas para te ajudar na construção:
