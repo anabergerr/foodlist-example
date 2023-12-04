@@ -23,7 +23,7 @@ Link [aqui](#)
 ![exemplo](https://github.com/anabergerr/foodlist-example/assets/89489383/9a3fffa7-ee39-4980-9d5f-4661c5204e97)
 
 
-## Etapas que podem te ajudar na construção:
+## Etapas para te ajudar na construção:
 
 ### 1. Layout do Item
    - Crie um arquivo XML para o layout do item da lista.
